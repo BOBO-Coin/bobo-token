@@ -21,7 +21,7 @@
 (define-constant err-not-token-owner (err u101))
 
 ;; No maximum supply!
-(define-fungible-token BOBO)
+(define-fungible-token BOBO u69000000000000)
 
 ;; 
 ;; SIP-10
